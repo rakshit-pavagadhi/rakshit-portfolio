@@ -61,7 +61,7 @@ export default function About() {
               <h4 className="font-semibold text-lg text-white">Pandit Deendayal Energy University</h4>
               <p className="text-sm text-cyan-400">B.Tech in Computer Engineering</p>
               <div className="flex justify-between text-sm text-slate-400 pt-2">
-                <span className="font-medium text-white bg-white/10 px-2 py-1 rounded">CGPA: 9.26 / 10</span>
+                <span className="font-medium text-white bg-white/10 px-2 py-1 rounded">CGPA: 9.34 / 10</span>
                 <span>2023 - 2027</span>
               </div>
               <p className="text-sm text-slate-400 mt-2">Gandhinagar, Gujarat</p>
@@ -77,7 +77,7 @@ export default function About() {
               <a href="https://leetcode.com/u/_coding101_/" target="_blank" rel="noopener noreferrer" className="bg-white/5 p-4 rounded-lg border border-white/10 flex items-center gap-4 hover:bg-white/10 transition-colors cursor-pointer group">
                 <div className="w-10 h-10 rounded-full bg-orange-500/20 flex items-center justify-center text-orange-400 font-bold">LC</div>
                 <div>
-                  <h4 className="text-white font-medium group-hover:underline">LeetCode - Solved 140+ Problems</h4>
+                  <h4 className="text-white font-medium group-hover:underline">LeetCode - Solved 180+ Problems</h4>
                 </div>
               </a>
             </div>
